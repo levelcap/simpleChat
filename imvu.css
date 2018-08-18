@@ -1,0 +1,46 @@
+.is-portrait {
+    display: none !important;
+}
+
+.room-detail-banner .room-detail-banner--background-image {
+    display: none !important;
+}
+
+img.room-image.is-landscape {
+    display: none !important;
+}
+
+.room-container {
+    background-color: #252323;
+    top: -50px !important;
+}
+
+.messages-container {
+    font-size: 14px !important;
+    width: 100% !important;
+    position: absolute !important;
+    top: 0;
+    left: 0px !important;
+}
+
+.chat-bar {
+    width: 100% !important;
+    position: absolute;
+    left: 0px !important;
+}
+
+span.message-text {
+    font-size: 14px !important;
+}
+
+nav.mode-nav.bar.magic-line-menu.disable-text-selection {
+    display: none !important;
+}
+
+a.profile-icon.new-profile-icon.thumbnail {
+    display: none !important;
+}
+
+.avatars-container {
+    display: none !important;
+}
